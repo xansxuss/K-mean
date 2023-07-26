@@ -1,0 +1,8 @@
+/home/xanxus/workspaces/K-mean/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/xanxus/workspaces/K-mean/cpp/build/CMakeFiles/edit_cache.dir
+/home/xanxus/workspaces/K-mean/cpp/build/lib/CMakeFiles/rebuild_cache.dir
+/home/xanxus/workspaces/K-mean/cpp/build/lib/CMakeFiles/edit_cache.dir
+/home/xanxus/workspaces/K-mean/cpp/build/lib/CMakeFiles/array.dir
+/home/xanxus/workspaces/K-mean/cpp/build/src/CMakeFiles/rebuild_cache.dir
+/home/xanxus/workspaces/K-mean/cpp/build/src/CMakeFiles/edit_cache.dir
+/home/xanxus/workspaces/K-mean/cpp/build/src/CMakeFiles/kmeans.dir

@@ -1,0 +1,1 @@
+int arr(int s[], int length);

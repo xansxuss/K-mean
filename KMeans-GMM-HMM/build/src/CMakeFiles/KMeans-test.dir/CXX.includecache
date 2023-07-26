@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/KMeans.h
+fstream
+-
+cstring
+-
+
+/home/xanxus/workspaces/K-mean/KMeans-GMM-HMM/src/KMeans-test.cpp
+iostream
+-
+KMeans.h
+/home/xanxus/workspaces/K-mean/KMeans-GMM-HMM/src/KMeans.h
+

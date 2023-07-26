@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/KMeans-test.dir/KMeans-test.o  -o KMeans-test   -L/home/xanxus/workspaces/K-mean/KMeans-GMM-HMM/lib  -Wl,-rpath,/home/xanxus/workspaces/K-mean/KMeans-GMM-HMM/lib ../lib/libKMeans.a 

@@ -1,0 +1,5 @@
+PROJECT (kmeans)
+find_package(OpenCV REQUIRED)
+include_directories(${opencv_INCLUDE_DIRS})
+add_subdirectory(lib)
+add_subdirectory(src)
